@@ -8,6 +8,7 @@ int j = 0;
 ArrayList<Contour> contours;
 ArrayList<PVector> loc ;
 float time = 0;
+int sample_val = 393;
 
 ArrayList<PVector> path = new ArrayList<PVector>();
 FloatList x = new FloatList();
